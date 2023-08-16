@@ -35,7 +35,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            lorem ipsum dolor .....vhhd ighs junnc huctgugvuy uygutyufv gttvy guhgdft huyvgtyurft hirgfybrf ghuiwgvigftrh huihevghier gugvc gfuguwe bhiuhg mhftrhehy4t huhyf848grb nvfioniorvf nvfhiehufh ivhruihgf
+            lorem ipghier gugvc gfuguwe bhiuhg mhftrhehy4t huhyf848grb nvfioniorvf nvfhiehufh ivhruihgf
             hyusfdyuhfiodiohcv bfugiedgugfyufyfr.
           </p>
           <a href='#contact' className='btn btn__primary'>Let's Talk</a>
