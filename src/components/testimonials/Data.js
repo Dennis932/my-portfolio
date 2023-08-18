@@ -1,5 +1,6 @@
 import av1 from '../../assets/avatar1.jpg'
 import av2 from '../../assets/avatar2.jpg'
+import av3 from '../../assets/devox.jpeg'
 
 
 const data = [
@@ -15,6 +16,12 @@ const data = [
         name: 'Bruce wayne',
         review: 'great work'
     },
+    {
+        id: 3,
+        avatar: av3,
+        name: 'Devox Otieno',
+        review: 'Great work keep on going there is a better days ahead'
+    }
 ]
 
 export default data;

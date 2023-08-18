@@ -7,9 +7,9 @@ import {ImTwitter} from 'react-icons/im'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>Rick</a>
+      <a href='#' className='footer__logo'>Dennis</a>
       <ul className='permalinks'>
-        <li><a href='#'>home</a></li>
+        <li><a href='#home'>home</a></li>
         <li><a href='#about'>about</a></li>
         <li><a href='#experience'>experience</a></li>
         <li><a href='#services'>services</a></li>

@@ -15,7 +15,10 @@ const Contact = () => {
     emailjs.sendForm('service_qvvia5a', 'template_lrq208s', form.current, 'qB7CL7QGWTyQKtscE')
       .then((result) => {
           console.log(result.text);
-      }, (error) => {
+          form.current.reset();
+          window.location.reload();
+      }) 
+      .catch((error) => {
           console.log(error.text);
       });
   };
@@ -29,7 +32,7 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>dennisbro@gmail.com</h5>
+            <h5>dennisbro932@gmail.com</h5>
             <a href='mailto:dennisochieng485@gmail.com' target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
