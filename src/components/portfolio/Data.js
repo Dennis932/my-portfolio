@@ -1,53 +1,30 @@
-import img1 from '../../assets/portfolio1.jpg'
-import img2 from '../../assets/portfolio2.jpg'
-import img3 from '../../assets/portfolio3.jpg'
-import img4 from '../../assets/portfolio4.jpg'
-import img5 from '../../assets/portfolio5.png'
-import img6 from '../../assets/portfolio6.jpg'
+import img1 from '../../assets/1.1.png'
+import img2 from '../../assets/1.2.png'
+import img3 from '../../assets/1.3.jpg'
+
 
 
 const data = [
     {
         id: 1,
         Image: img1,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        title: 'recipe-app',
+        github: 'https://github.com/Dennis932/recipe.com',
+        demo: 'https://dennis932.github.io/recipe.com/recipe.html'
     },
     {
-        id: 1,
+        id: 2,
         Image: img2,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        title: 'YouTube-Userinterface',
+        github: 'https://github.com/Dennis932/youtube-project-website',
+        demo: 'https://dennis932.github.io/youtube-project-website/youtube.html'
     },
     {
-        id: 1,
+        id: 3,
         Image: img3,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
-    },
-    {
-        id: 1,
-        Image: img4,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
-    },
-    {
-        id: 1,
-        Image: img5,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
-    },
-    {
-        id: 1,
-        Image: img6,
-        title: 'pro-max',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        title: 'UI/UX Figma design',
+        github: "https://www.figma.com/proto/8Jp3lCgAmUPuK2xmgyV1Zm/Untitled?node-id=6-182",
+        demo: "https://www.figma.com/proto/8Jp3lCgAmUPuK2xmgyV1Zm/Untitled?node-id=6-182"
     }
 ]
 

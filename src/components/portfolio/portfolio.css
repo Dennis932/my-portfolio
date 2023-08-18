@@ -1,6 +1,7 @@
 .portfolio__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
     gap: 2.5rem;
 }
 
@@ -34,7 +35,7 @@
 
 @media screen and (max-width: 1024px) {
     .portfolio__container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1.2rem;
     }
 }

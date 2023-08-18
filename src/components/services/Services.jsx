@@ -1,6 +1,5 @@
 import React from 'react'
 import './services.css'
-import {BsCheck} from 'react-icons/bs'
 
 const Services = () => {
   return (
@@ -12,102 +11,11 @@ const Services = () => {
           <div className='service__head'>
             <h3>UI/UX Designs</h3>
           </div>
-          <ul className='service__list'>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-          </ul>
         </article>
         <article className='service'>
           <div className='service__head'>
             <h3>Web Development</h3>
           </div>
-          <ul className='service__list'>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-          </ul>
-        </article>
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Content Creation</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>trippin trippin trippin trippin trippin</p>   
-            </li>
-          </ul>
         </article>
       </div>
     </section>

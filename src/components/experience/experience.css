@@ -1,6 +1,7 @@
 .experience__container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
     gap: 2rem;
 }
 
@@ -27,6 +28,7 @@
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    column-gap: 4rem;
     row-gap: 2rem;
 }
 
